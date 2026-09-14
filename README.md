@@ -86,14 +86,6 @@ Site informativo com local e horário de aulas gratuitas de matemática, desenvo
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-black.vercel.app/api?username=guivolpolini&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="300" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=guivolpolini&layout=donut-vertical&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
-</p>
-
----
 
 <p align="center">
   <strong>Disponível para estágio e para projetos freelance de desenvolvimento web.</strong><br>
