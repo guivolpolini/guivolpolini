@@ -90,7 +90,7 @@ Site informativo com local e horário de aulas gratuitas de matemática, desenvo
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=guivolpolini&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guivolpolini&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guivolpolini&layout=donut-vertical&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
 </p>
 
 ---
