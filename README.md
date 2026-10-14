@@ -30,15 +30,12 @@
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,fastapi,nodejs,react,nextjs,tailwind,vite,mysql,mongodb,html,css,git,github,vercel" alt="Tecnologias">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,ts,react,nextjs,tailwind,git" alt="Tecnologias">
 </p>
 
-**Linguagens:** Java · Python · JavaScript · SQL
-**Back-end:** FastAPI · SQLAlchemy · Pydantic · Node.js · APIs REST
-**Front-end:** React · Next.js · Tailwind CSS · Vite · HTML · CSS · Bootstrap
-**Banco de dados:** MySQL · MongoDB · Modelagem de dados
-**Testes e práticas:** pytest · POO · Scrum · Kanban
-**Cloud e deploy:** AWS · Render · Vercel · GitHub Pages
+- **Back-end & Dados:** Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · Celery
+- **Front-end:** TypeScript · React · Next.js · Tailwind CSS
+- **DevOps & Ferramentas:** Docker · Git · Linux · Testes automatizados (pytest / Vitest)
 
 ---
 
