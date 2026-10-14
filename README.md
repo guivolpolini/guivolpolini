@@ -68,6 +68,10 @@ Sistema de gestão comercial B2B com **arquitetura multi-tenant isolada** (`Tena
 Plataforma de inteligência e automação de candidaturas. Analisa vagas, calcula **compatibilidade real via IA (Score 0-100%)**, mapeia gaps de habilidades e gera currículos otimizados para ATS. Pipeline assíncrono com **FastAPI, Celery e Redis**, outputs estruturados via Pydantic v2 e persistência relacional assíncrona.
 `Python` `FastAPI` `PostgreSQL` `Redis` `Celery` `SQLAlchemy` `Docker` `Next.js`
 
+### 🧬 [DigestiveQuest](https://github.com/guivolpolini/DigestiveQuest) · 2024
+Jogo educativo desktop sobre o sistema digestório humano com gamificação em sala de aula. Arquitetura orientada a objetos com **padrão DAO e conexões JDBC**, persistência relacional em **MySQL**, controle de perfis de acesso (aluno vs professor) e prototipagem em **Python (CustomTkinter)**.
+`Java` `MySQL` `JDBC` `Java Swing` `Python`
+
 ---
 
 ## Cursos e certificações
