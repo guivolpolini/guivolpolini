@@ -59,11 +59,10 @@ E-commerce completo com **autenticação JWT**, catálogo de produtos, carrinho 
 PWA offline-first de alta performance para gestão de foco, rotina acadêmica e treinos. Arquitetura com **persistência local reativa via IndexedDB (Dexie.js)**, timer resiliente a suspensão mobile em segundo plano via Web Audio/Vibration API e **68 testes unitários automatizados**.
 `React 19` `TypeScript` `Tailwind CSS v4` `Dexie.js` `PWA` `Vitest`
 
-### 🎮 DigestiveQuest · 2024
-Jogo educativo desenvolvido **em equipe** para o Colégio Piaget, com o objetivo de ensinar de forma mais descontraída. Construído em **Java**, aplicando lógica de programação e **POO**.
-**Resultado:** ferramenta que apoiou o aprendizado de **50 alunos**.
+### 🏢 [CRM Pro](https://github.com/guivolpolini/crmpro) · 2026
+Sistema de gestão comercial B2B com **arquitetura multi-tenant isolada** (`TenantContext`) e pipeline Kanban interativo. Possui **conversão atômica de leads em transação única ACID** (Lead ➔ Empresa + Contato + Negócio), catálogo de produtos, gerador de propostas com numeração sequencial e testes de integração com banco H2.
 
-`Java` `POO` `Trabalho em equipe`
+`Java 21` `Spring Boot 3` `PostgreSQL` `React 19` `TypeScript` `Docker`
 
 ### 💼 [JobPilot](https://github.com/guivolpolini/jobpilot) · 2026
 Plataforma de inteligência e automação de candidaturas. Analisa vagas, calcula **compatibilidade real via IA (Score 0-100%)**, mapeia gaps de habilidades e gera currículos otimizados para ATS. Pipeline assíncrono com **FastAPI, Celery e Redis**, outputs estruturados via Pydantic v2 e persistência relacional assíncrona.
