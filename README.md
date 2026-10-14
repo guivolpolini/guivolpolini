@@ -17,14 +17,13 @@
 
 ## Sobre mim
 
-- 🎓 Cursando **Ciência da Computação** no **Instituto Mauá de Tecnologia** (conclusão prevista: dez/2028)
-- 💻 **Desenvolvedor web freelancer** — crio sites responsivos e focados em conversão para pequenos negócios
-- 🐍 Foco em **desenvolvimento back-end** com **Python (FastAPI)** e **Java**
-- 🤖 Interesse especial em integrar **IA generativa** a aplicações reais
-- 🎯 Buscando **estágio em desenvolvimento de software**
-- 🌎 Inglês avançado · Espanhol intermediário
-- 📍 São Caetano do Sul – SP, Brasil
-
+- 🎓 Cursando **Ciência da Computação** no **Instituto Mauá de Tecnologia** (previsão: dez/2028)
+- ⚙️ Desenvolvedor com foco em **Back-end & Arquitetura**: APIs REST robustas, multi-tenancy e transações atômicas com **Java (Spring Boot)** e **Python (FastAPI)**
+- 🤖 Aplicação prática de **IA Generativa & Automação**: pipelines assíncronos (Celery/Redis) e geração estruturada de dados com LLMs
+- 💻 **Freelancer**: desenvolvimento de interfaces modernas e entrega de aplicações web completas para negócios reais
+- 🎯 Buscando **estágio em Engenharia de Software** (Back-end ou Full Stack)
+- 🌎 **Idiomas:** Inglês avançado · Espanhol intermediário
+- 📍 São Caetano do Sul – SP (disponibilidade: Presencial SP/ABC, Híbrido ou Remoto)
 ---
 
 ## Tecnologias
