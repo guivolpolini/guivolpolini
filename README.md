@@ -30,12 +30,12 @@
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,ts,react,nextjs,tailwind,git" alt="Tecnologias">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,docker,ts,react,nextjs,tailwind,git" alt="Tecnologias">
 </p>
 
-- **Back-end & Dados:** Python · FastAPI · SQLAlchemy · PostgreSQL · Redis · Celery
-- **Front-end:** TypeScript · React · Next.js · Tailwind CSS
-- **DevOps & Ferramentas:** Docker · Git · Linux · Testes automatizados (pytest / Vitest)
+- **Back-end & Dados:** Java (Spring Boot) · Python (FastAPI) · PostgreSQL · Redis · Celery · SQLAlchemy
+- **Front-end:** TypeScript · React 19 · Next.js · Tailwind CSS v4
+- **DevOps & Qualidade:** Docker · Git · Linux · Testes automatizados (JUnit / pytest / Vitest)
 
 ---
 
