@@ -58,10 +58,9 @@ E-commerce completo com **autenticação JWT**, catálogo de produtos, carrinho 
 
 `Python` `FastAPI` `MySQL` `React` `Next.js`
 
-### 🐾 Cat & Dog Pet Shop · 2025
-Site responsivo e focado em conversão para um pet shop do bairro que ainda não tinha presença digital. Inclui **agendamento via WhatsApp** e integração com o Instagram, com design pensado para transmitir confiança.
-
-`React` `Vite` `Tailwind CSS` `Vercel`
+### ⚡ [FocusUp](https://github.com/guivolpolini/focusup) · 2026
+PWA offline-first de alta performance para gestão de foco, rotina acadêmica e treinos. Arquitetura com **persistência local reativa via IndexedDB (Dexie.js)**, timer resiliente a suspensão mobile em segundo plano via Web Audio/Vibration API e **68 testes unitários automatizados**.
+`React 19` `TypeScript` `Tailwind CSS v4` `Dexie.js` `PWA` `Vitest`
 
 ### 🎮 DigestiveQuest · 2024
 Jogo educativo desenvolvido **em equipe** para o Colégio Piaget, com o objetivo de ensinar de forma mais descontraída. Construído em **Java**, aplicando lógica de programação e **POO**.
@@ -69,10 +68,9 @@ Jogo educativo desenvolvido **em equipe** para o Colégio Piaget, com o objetivo
 
 `Java` `POO` `Trabalho em equipe`
 
-### 🚇 Matemática no Metrô
-Site informativo com local e horário de aulas gratuitas de matemática, desenvolvido ao longo de **6 meses em 4 etapas**: levantamento de requisitos, identidade visual e protótipos, front-end e, por fim, back-end.
-
-`HTML` `CSS3` `Bootstrap` `JavaScript` `Node.js` `MongoDB`
+### 💼 [JobPilot](https://github.com/guivolpolini/jobpilot) · 2026
+Plataforma de inteligência e automação de candidaturas. Analisa vagas, calcula **compatibilidade real via IA (Score 0-100%)**, mapeia gaps de habilidades e gera currículos otimizados para ATS. Pipeline assíncrono com **FastAPI, Celery e Redis**, outputs estruturados via Pydantic v2 e persistência relacional assíncrona.
+`Python` `FastAPI` `PostgreSQL` `Redis` `Celery` `SQLAlchemy` `Docker` `Next.js`
 
 ---
 
