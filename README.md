@@ -32,9 +32,9 @@
   <img src="https://skillicons.dev/icons?i=java,python,fastapi,postgres,ts,react,nextjs,git" alt="Tecnologias">
 </p>
 
-- **Back-end & Dados:** Java (Spring Boot) · Python (FastAPI) · PostgreSQL · Redis · Celery · SQLAlchemy
-- **Front-end:** TypeScript · React 19 · Next.js · Tailwind CSS v4
-- **DevOps & Qualidade:** Docker · Git · Linux · Testes automatizados (JUnit / pytest / Vitest)
+- **Back-end & Dados:** Java (Spring Boot) · Python (FastAPI) · PostgreSQL 
+- **Front-end:** TypeScript · React 19 · Next.js · 
+- **DevOps & Qualidade:** Git · Testes automatizados (JUnit / pytest / Vitest)
 
 ---
 
