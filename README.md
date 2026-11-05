@@ -29,7 +29,7 @@
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgres,redis,docker,ts,react,nextjs,tailwind,git" alt="Tecnologias">
+  <img src="https://skillicons.dev/icons?i=java,python,fastapi,postgres,ts,react,nextjs,git" alt="Tecnologias">
 </p>
 
 - **Back-end & Dados:** Java (Spring Boot) · Python (FastAPI) · PostgreSQL · Redis · Celery · SQLAlchemy
